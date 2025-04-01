@@ -253,7 +253,7 @@
         
          <div class="card">
             <img src="images/varsha.jpg" alt="varsha">
-            <h3>Satwika </h3>
+            <h3>Varsha </h3>
             <p>Chief - PR</p>
         </div>
         
